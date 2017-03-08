@@ -6,17 +6,14 @@
 
 Официальная документация: 
 
-https://www.python.org/doc/ 
-
-https://www.djangoproject.com/
+- https://www.python.org/doc/ 
+- https://www.djangoproject.com/
 
 ## IDE for python: 
 
-https://www.jetbrains.com/pycharm/ 
-
-https://www.eclipse.org/downloads/ - говорят не хуже чем Pycharm, но нужно сначала настроить: https://habrahabr.ru/post/167559/ 
-
-https://code.visualstudio.com/docs/languages/python 
+- https://www.jetbrains.com/pycharm/ 
+- https://www.eclipse.org/downloads/ - говорят не хуже чем Pycharm, но нужно сначала [настроить](https://habrahabr.ru/post/167559/)
+- https://code.visualstudio.com/docs/languages/python 
 
 Из редакторов - sublime text, написан на python - https://www.sublimetext.com/3 
 
@@ -46,35 +43,35 @@ http://www.ex.ua/101768608
  
 ##Ютуб каналы по Django+Python: 
 
-https://www.youtube.com/user/CodingEntrepreneurs 
-https://www.youtube.com/user/shadrus 
+- https://www.youtube.com/user/CodingEntrepreneurs 
+- https://www.youtube.com/user/shadrus 
  
 Каналы с морем информации касательно программирования: 
 
-https://www.youtube.com/user/OpenLektorium 
-https://www.youtube.com/channel/UCokGORp98u8yD5MJvqvH.. 
-https://www.youtube.com/channel/UClQJvX1TXm0rXoxFtTcz.. 
-https://www.youtube.com/user/TPMGTU 
+- https://www.youtube.com/user/OpenLektorium 
+- https://www.youtube.com/channel/UCokGORp98u8yD5MJvqvH.. 
+- https://www.youtube.com/channel/UClQJvX1TXm0rXoxFtTcz.. 
+- https://www.youtube.com/user/TPMGTU 
  
 Толковые стримы, советую подписаться: 
 
 https://www.livecoding.tv 
  
-Курсы: 
+## Курсы: 
 
-https://stepik.org/course/Программирование-на-Python-67 
-https://stepik.org/course/Адаптивный-тренажер-Python-.. 
-https://stepik.org/course/Adaptive-Python-568 
-https://www.codecademy.com/learn/python 
-https://www.codeschool.com/learn/python  
+- https://stepik.org/course/Программирование-на-Python-67 
+- https://stepik.org/course/Адаптивный-тренажер-Python-.. 
+- https://stepik.org/course/Adaptive-Python-568 
+- https://www.codecademy.com/learn/python 
+- https://www.codeschool.com/learn/python  
  
 ## Каналы-чаты для обсуждения и взаимопомощи: 
 
-https://telegram.me/python_beginners 
-http://telegram.me/ru_python 
-http://telegram.me/rupython 
-http://telegram.me/pydjango 
-http://telegram.me/django_framework 
+- https://telegram.me/python_beginners 
+- http://telegram.me/ru_python 
+- http://telegram.me/rupython 
+- http://telegram.me/pydjango 
+- http://telegram.me/django_framework 
  
 
  
